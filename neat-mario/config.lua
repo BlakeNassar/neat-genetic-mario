@@ -4,7 +4,7 @@ local _M = {}
 	Change BizhawkDir to your BizHawk directory.
 --]]
 --_M.BizhawkDir = "C:/Users/mmill/Downloads/BizHawk-2.2/"
-_M.BizhawkDir = "X:/B2_BizHawkLab/BizHawk-2.2.2/"
+_M.BizhawkDir = "C:/Users/nassa/OneDrive/Desktop/New folder/BizHawk-2.9.1-win-x64"
 
 _M.StateDir = _M.BizhawkDir .. "Lua/SNES/neat-mario/state/"
 _M.PoolDir = _M.BizhawkDir .. "Lua/SNES/neat-mario/pool/"
